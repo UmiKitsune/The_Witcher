@@ -1,6 +1,7 @@
 # The_Witcher
 
-<h2>Практика:</h2><ul>
+<Практика:
+<ul>
   <li>верстка по шаблону Figma</li>
   <li>html5</li>
   <li>css3</li>
@@ -9,4 +10,4 @@
   <li>слайдер - swiper.js</li>
 </ul>
 
-<a href="https://umikitsune.github.io/The_Witcher/">для просмотра сайта тыкнуть на плотву -> &#128014;</a>
+Для просмотра сайта тыкнуть на плотву -><a href="https://umikitsune.github.io/The_Witcher/"> &#128014;</a>
