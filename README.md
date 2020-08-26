@@ -1,6 +1,6 @@
 # The_Witcher
 
-<Практика:
+Практика:
 <ul>
   <li>верстка по шаблону Figma</li>
   <li>html5</li>
